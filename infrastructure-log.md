@@ -15,9 +15,9 @@ Most recent entries at the top.
 
 | Date | Change | Why / Notes |
 |---|---|---|
-| YYYY-MM-DD | Example: Installed 2x 80mm rear-exhaust fans | Example: Idle temps were ~10°C above expected under sustained load; added active airflow |
+| 2026-MM-DD | Example: Installed 2x 80mm rear-exhaust fans | Example: Idle temps were ~10°C above expected under sustained load; added active airflow |
 | YYYY-MM-DD | Example: Terminated 4x Cat6 to patch panel | Example: Replacing loose point-to-point ethernet runs with structured cabling for the rack |
-| YYYY-MM-DD | Example: Initial rack-mount, 3 nodes | Example: First physical assembly of the cluster hardware |
+| 2026-06-24 | Example: Fully set up the cluster and is now capable of running applications. | Example: First physical assembly of the cluster hardware |
 
 ---
 

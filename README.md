@@ -7,7 +7,7 @@ A self-managed Kubernetes cluster built from repurposed PCs/laptops, set up with
 | | |
 |---|---|
 | **Goal** | Learn Kubernetes cluster administration by building one manually on real hardware |
-| **Hardware** | 4x repurposed PCs/laptops |
+| **Hardware** | 4x repurposed mini PCs |
 | **Cluster setup tool** | `kubeadm` |
 | **Container runtime** | containerd |
 | **CNI (pod networking)** | Flannel |

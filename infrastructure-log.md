@@ -15,8 +15,8 @@ Most recent entries at the top.
 
 | Date | Change | Why / Notes |
 |---|---|---|
-| 2026-03-01 | Purchased a Lenovo ThinkPad T14 Gen 1 | I bought my own laptop not for school so I can start experimenting with linux distrubutions and personal projects.
-| 2026-MM-DD | Example: Installed 2x 80mm rear-exhaust fans | Example: Idle temps were ~10°C above expected under sustained load; added active airflow |
+| 2026-03-01 | Purchased a refurbished Lenovo ThinkPad T14 Gen 1 | I bought my own laptop not for school so I can start experimenting with linux distrubutions and personal projects.
+| 2026-04-03 | Purchased a refurbished Lenovo ThinkCentre | I bought this mini PC so I could SSH away from it when at college so i could practice remote starts |
 | YYYY-MM-DD | Example: Terminated 4x Cat6 to patch panel | Example: Replacing loose point-to-point ethernet runs with structured cabling for the rack |
 | 2026-06-24 | Example: Fully set up the cluster and is now capable of running applications. | Example: First physical assembly of the cluster hardware |
 

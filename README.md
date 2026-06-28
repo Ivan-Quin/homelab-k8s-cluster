@@ -1,6 +1,6 @@
 # Homelab Kubernetes Cluster
 
-A self-managed Kubernetes cluster built from repurposed PCs/laptops, set up with `kubeadm` and Flannel — a hands-on project to learn cluster administration from the ground up rather than relying on a managed service.
+A self-managed Kubernetes cluster built from repurposed mini PCs, set up with `kubeadm` and Flannel — a hands-on project to learn cluster administration from the ground up rather than relying on a managed service.
 
 ## Overview
 

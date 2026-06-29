@@ -15,6 +15,7 @@ Most recent entries at the top.
 
 | Date | Change | Why / Notes |
 |---|---|---|
+| 2026-06-29 | Purchased 2x Seagate SATA 2.5 SDD | The main purpose is to back up any runing applications.
 | 2026-03-01 | Purchased a refurbished Lenovo ThinkPad T14 Gen 1 | I bought my own laptop not for school so I can start experimenting with linux distrubutions and personal projects.
 | 2026-04-03 | Purchased a refurbished Lenovo ThinkCentre | I bought this mini PC so I could SSH away from it when at college so i could practice remote starts |
 | YYYY-MM-DD | Example: Terminated 4x Cat6 to patch panel | Example: Replacing loose point-to-point ethernet runs with structured cabling for the rack |

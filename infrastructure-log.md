@@ -18,6 +18,7 @@ Most recent entries at the top.
 | 2026-07-XX | Terminated Cat6 ethernet runs to a patch panel      | Replaced loose point-to-point ethernet runs with structured cabling for cleaner rack organization and easier troubleshooting |
 | 2026-06-30 | Assembled Tecmojo 6U Network Rack, 10 inch Mini Server Rack | Main housing unit for nodes, storage, and wiring|
 | 2026-06-29 | Purchased 2x Seagate SATA 2.5" SSD                  | Storage for backing up running applications                                                       |
+| 2026-06-23 | Purchased 4x 10 inch 1U Mini PC Rack Mount Shelves | Proper housing unit for Kubernetes cluster nodes.
 | 2026-06-23 | Purchased a Tecmojo 6U Network Rack, 10 inch Mini Server Rack | Main |
 | 2026-04-04 | Purchased 3x HP EliteDesk 800 G3 Mini PCs (i5-6500T, 8GB RAM, no drive/OS) | Low-power (35W) mini PCs chosen for compact, energy-efficient worker nodes; added drives/OS separately |
 | 2026-04-03 | Purchased a refurbished Lenovo ThinkCentre           | Added as a node so I could SSH in remotely from college and practice remote administration        |

@@ -20,6 +20,7 @@ Most recent entries at the top.
 | 2026-06-29 | Purchased 2x Seagate SATA 2.5" SSD                  | Storage for backing up running applications                                                       |
 | 2026-06-23 | Purchased 4x 10 inch 1U Mini PC Rack Mount Shelves | Proper housing unit for Kubernetes cluster nodes.
 | 2026-06-23 | Purchased a Tecmojo 6U Network Rack, 10 inch Mini Server Rack | Main |
+| 2026-06-16 | Purchased GL.iNet GL-MT300N-V2 Mini Travel WiFi Router | Be able to isolate traffic and establish static IP addresses|
 | 2026-04-04 | Purchased 3x HP EliteDesk 800 G3 Mini PCs (i5-6500T, 8GB RAM, no drive/OS) | Low-power (35W) mini PCs chosen for compact, energy-efficient worker nodes; added drives/OS separately |
 | 2026-04-03 | Purchased a refurbished Lenovo ThinkCentre           | Added as a node so I could SSH in remotely from college and practice remote administration        |
 | 2026-03-01 | Purchased a refurbished Lenovo ThinkPad T14 Gen 1    | Personal laptop for experimenting with Linux distributions outside of school use                  |

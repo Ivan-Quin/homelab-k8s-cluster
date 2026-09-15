@@ -16,6 +16,7 @@ Most recent entries at the top.
 | Date       | Change                                             | Why / Notes                                                                                      |
 | ---------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 2026-07-XX | Terminated Cat6 ethernet runs to a patch panel      | Replaced loose point-to-point ethernet runs with structured cabling for cleaner rack organization and easier troubleshooting |
+| 2026-06-30 | Assembled Tecmojo 6U Network Rack, 10 inch Mini Server Rack | Main housing unit for nodes, storage, and wiring|
 | 2026-06-29 | Purchased 2x Seagate SATA 2.5" SSD                  | Storage for backing up running applications                                                       |
 | 2026-04-03 | Purchased a refurbished Lenovo ThinkCentre           | Added as a node so I could SSH in remotely from college and practice remote administration        |
 | 2026-03-01 | Purchased a refurbished Lenovo ThinkPad T14 Gen 1    | Personal laptop for experimenting with Linux distributions outside of school use                  |

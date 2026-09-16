@@ -16,6 +16,7 @@ Most recent entries at the top.
 | Date       | Change                                             | Why / Notes                                                                                      |
 | ---------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 2026-07-XX | Terminated Cat6 ethernet runs to a patch panel      | Replaced loose point-to-point ethernet runs with structured cabling for cleaner rack organization and easier troubleshooting |
+| 2026-07-03 |SATA Driver Reader | External storage for data redundancy |
 | 2026-06-30 | Assembled Tecmojo 6U Network Rack, 10 inch Mini Server Rack | Main housing unit for nodes, storage, and wiring|
 | 2026-06-29 | Purchased 2x Seagate SATA 2.5" SSD                  | Storage for backing up running applications                                                       |
 | 2026-06-24 | Purchased 120mm x 120mm Rack Mounted Fan | For cooling components are cluttered |

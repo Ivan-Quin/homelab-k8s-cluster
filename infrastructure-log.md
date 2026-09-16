@@ -32,5 +32,4 @@ Most recent entries at the top.
 
 ## Notes
 
-- Add a new row at the top of the table each time something physical changes — new hardware, cabling, cooling, power, rack layout, etc.
-- If a change was driven by a problem (e.g. thermal issues, a node dropping offline), note the symptom, not just the fix — that's the part that's useful in an interview.
+- The original plan for this project was to have a home server that ran used enterprise grade hardware, but due to demand and price changes a Kubernetes cluster was a cheaper alternative to get hands on experience.
